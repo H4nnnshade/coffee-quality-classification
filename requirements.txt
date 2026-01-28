@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 tensorflow
 opencv-python
+keras-cv
+joblib
